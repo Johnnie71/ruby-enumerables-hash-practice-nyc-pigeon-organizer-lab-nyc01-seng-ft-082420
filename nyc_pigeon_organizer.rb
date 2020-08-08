@@ -15,11 +15,11 @@ def nyc_pigeon_organizer(data)
   end      
 end
 end
-=======
- hash.each_with_object({}) do |(key, value), final_array|
-   binding.pry
-   value.each do |inner_key, names|
-     final_array
-  end          
->>>>>>> 869e4f5a67b64ef6e84e6d3e00d96a3c193e3e33
-end
+# =======
+# hash.each_with_object({}) do |(key, value), final_array|
+#   binding.pry
+#   value.each do |inner_key, names|
+#     final_array
+#   end          
+# >>>>>>> 869e4f5a67b64ef6e84e6d3e00d96a3c193e3e33
+# end
